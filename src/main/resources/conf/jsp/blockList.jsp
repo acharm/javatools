@@ -18,7 +18,7 @@
 </BODY>
 
 <script type="text/javascript">
-$(function() {
+$(function() {alert("sth~~");
     getData();
 });
 
