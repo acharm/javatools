@@ -1,0 +1,3 @@
+# 取消追踪
+git rm -r --cached target/* 
+
