@@ -1,3 +1,5 @@
+git push -u origin master
+
 # 取消追踪
 git rm -r --cached target/* 
 
